@@ -32,7 +32,7 @@ void setup ()  {
 Serial.begin(9600);
 }
 void loop () {
-Serial.println("hello");
+Serial.println("hello"); //چاپ کردن hello
 delay(1000);
 }
 ``` 
